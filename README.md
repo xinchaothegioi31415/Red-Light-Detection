@@ -49,5 +49,8 @@ Sau khi cài đặt xong, bạn nhập vào ***Command Prompt*** dòng lệnh sa
 ```sh
 $ python detection.py
 ```
+
+### Video hướng dẫn
+[![VIDEO HƯỚNG DẪN](https://yt-embed.herokuapp.com/embed?v=oY1a0ED_FEk)](https://youtu.be/oY1a0ED_FEk "VIDEO HƯỚNG DẪN")
 ***
 Happy coding! 💻💻💻
